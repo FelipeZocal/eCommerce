@@ -1,4 +1,4 @@
-#**Alunos**: `Felipe Zocal Medes` `Arthur Zocal Ribeiro da Silva`
+**Alunos**: `Felipe Zocal Medes` `Arthur Zocal Ribeiro da Silva`
 
 # Diagrama de Classes e Padrões de Projeto
 
