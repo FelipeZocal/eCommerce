@@ -1,3 +1,5 @@
+**Alunos**: `Felipe Zocal Medes` `Arthur Zocal Ribeiro da Silva`
+
 # Diagrama de Classes e Padrões de Projeto
 
 Este documento apresenta o diagrama de classes da solução proposta para o projeto "Loja Sapato", juntamente com uma explicação detalhada dos padrões de projeto utilizados e as justificativas para suas escolhas.
